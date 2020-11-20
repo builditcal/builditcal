@@ -1,4 +1,6 @@
-### Hi there 👋
+![Hello There](https://media.giphy.com/media/hUEnpmgX9LyzZfK2xV/giphy.gif)
+
+
 
 <!--
 **howzitcal/howzitcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
