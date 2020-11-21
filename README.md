@@ -1,5 +1,5 @@
 ![meme](https://bit.ly/funky_sauce)
-* 😄 Pronouns: He/Him
+* 😄 Pronouns: He/Him/His
 * 🌱 I’m currently learning React, Typescript, .NET Core, and Testing!
 * 📫 How to reach me: [🐤Twitter](https://twitter.com/howzitcal)
 * ⚡ Fun fact: If you type ["do a barrel roll"](https://google.com/search?q=do+a+barrel+roll) in... oh, you already knew that... ok 😸
