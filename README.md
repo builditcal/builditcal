@@ -1,5 +1,4 @@
 ![meme](https://bit.ly/funky_sauce)
-* 👋 Hey there
 * 😄 Pronouns: He/Him
 * 🌱 I’m currently learning React, Typescript, .NET Core, and Testing!
 * 📫 How to reach me: [🐤Twitter](https://twitter.com/howzitcal)
