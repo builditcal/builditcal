@@ -4,7 +4,7 @@
 * 🌱 I’m currently learning React, Typescript, .NET Core, and Testing!
 * 📫 How to reach me: [🐤Twitter](https://twitter.com/howzitcal)
 * ⚡ Fun fact: If you type ["do a barrel roll"](https://google.com/search?q=do+a+barrel+roll) in... oh, you already knew that... ok 😸
-* ⚡ Yet another Fun fact: If you add a url shortener to an image in this [readme](https://github.com/howzitcal/howzitcal/blob/main/README.md), you can see how many times you profile have been viewed 🤷‍♂️
+* ⚡ Fun fact 2: If you add a url shortened image in this [README.md](https://github.com/howzitcal/howzitcal/blob/main/README.md), you can see how many times you profile have been viewed
 
 
 
