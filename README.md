@@ -1,8 +1,7 @@
 ![meme](https://bit.ly/funky_sauce)
-* 😄 Pronouns: He/Him/His
 * 🎉 Proudly South(Sata) African
-* 🌱 I’m currently learning `React`, `Typescript`, `.NET Core`, and `TDD(BDD)`!
-* 📫 How to reach me: [🐤Twitter](https://bit.ly/cdf_gh_tw),  [📘Linkdin](https://bit.ly/cdf_gh_ln) or [🕸hcal.cf](https://bit.ly/cdf_gh_web)
+* 🌱 I’m currently learning `React`, `Typescript`, `Laravel`, and `TDD(BDD)`!
+* 📫 How to reach me: [🐤Twitter](https://twitter.com/cdffyi),  [📘Linkdin](https://linkedin.com/cdffyi) or [🕸cdf.fyi](https://cdf.fyi)
 * ⚡ Fun fact: If you type ["do a barrel roll"](https://bit.ly/cdf_gh_dabr) in... oh, you already knew that... ok 😸
 
 <!--
