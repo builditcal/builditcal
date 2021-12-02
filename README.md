@@ -1,7 +1,6 @@
 ![meme](https://bit.ly/funky_sauce)
 * 🎉 Proudly South(Sata) African
-* 🌱 I’m currently learning `React`, `Typescript`, `Laravel`, and `TDD(BDD)`!
-* 📫 How to reach me: [🐤Twitter](https://twitter.com/cdffyi),  [📘Linkdin](https://linkedin.com/cdffyi) or [🕸cdf.fyi](https://cdf.fyi)
+* 📫 How to reach me: [🐤Twitter](https://twitter.com/callumdotbuzz),  [📘Linkdin](https://linkedin.com/callumdotbuzz) or [🕸callu.buzz](https://callum.buzz)
 * ⚡ Fun fact: If you type ["do a barrel roll"](https://bit.ly/cdf_gh_dabr) in... oh, you already knew that... ok 😸
 
 <!--
