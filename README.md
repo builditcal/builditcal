@@ -1,6 +1,6 @@
 ![meme](https://bit.ly/funky_sauce)
 * 🎉 Proudly South(Sata) African
-* 📫 How to reach me: [🐤Twitter](https://twitter.com/gojical),  [📘Linkdin](https://linkedin.com/in/gojical) or [🕸callum.co.za](https://callum.co.za)
+* 📫 How to reach me: [🐤Twitter](https://twitter.com/gojical),  [📘Linkdin](https://linkedin.com/in/gojical) or [🕸gojical.com](https://gojical.com)
 * ⚡ Fun fact: If you type ["do a barrel roll"](https://bit.ly/cdf_gh_dabr) in... oh, you already knew that... ok 😸
 
 <!--
