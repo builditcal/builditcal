@@ -1,7 +1,7 @@
 ![meme](https://bit.ly/funky_sauce)
-* 🎉 Proudly South(Sata) African
-* 📫 How to reach me: [🐤Twitter](https://twitter.com/gojical),  [📘Linkdin](https://linkedin.com/in/gojical) or [🕸gojical.com](https://gojical.com)
-* ⚡ Fun fact: If you type ["do a barrel roll"](https://bit.ly/cdf_gh_dabr) in... oh, you already knew that... ok 😸
+- 🎉 Proudly South African
+- 📫 How to reach me: [🐤Twitter(x.com)](https://twitter.com/builditcal),  [📘Linkdin](https://linkedin.com/in/builditcal) or [🕸gojical.com](https://callum.co.za)
+- 💡 Fun fact: If you type ["do a barrel roll"](https://bit.ly/cdf_gh_dabr) in... oh, you already knew that... ok 😸
 
 <!--
 **howzitcal/howzitcal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
